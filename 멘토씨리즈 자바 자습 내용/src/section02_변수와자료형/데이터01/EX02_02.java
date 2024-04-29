@@ -10,7 +10,7 @@ public class EX02_02 {
 		System.out.println("Welcome.");
 		//"Welcome." 문자열 아래 "JAVA World" 문자열 출력
 		System.out.println("JAVA World");
-		//dkssudgktpdy
+	
 	}
 
 }
