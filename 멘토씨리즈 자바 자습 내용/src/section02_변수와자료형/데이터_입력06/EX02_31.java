@@ -1,4 +1,4 @@
-package section02_변수와_자료형.데이터_입력06;
+package section02_변수와자료형.데이터_입력06;
 
 import java.util.Scanner;
 
