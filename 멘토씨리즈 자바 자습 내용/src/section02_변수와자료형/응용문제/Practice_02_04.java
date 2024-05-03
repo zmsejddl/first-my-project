@@ -9,6 +9,7 @@ public class Practice_02_04 {
 		
 		char numC = 66;
 		System.out.println(numC);
+		//sss
 	}
 
 }
