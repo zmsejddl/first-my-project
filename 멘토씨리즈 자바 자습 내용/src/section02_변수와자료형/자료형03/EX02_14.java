@@ -11,6 +11,9 @@ public class EX02_14 {
 		
 		System.out.println("double: " + pieDouble);
 		System.out.println("float: " + pieFloat);
+		
+		//반드시 float형이 필요한 경우가 아니라면 
+		//실수를 저장하는 변수로는 double형을 사용하는 것을 권장합니다
 	}
 
 }
