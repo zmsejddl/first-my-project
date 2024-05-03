@@ -11,7 +11,7 @@ public class EX03_02 {
 		
 		System.out.println(-d);
 		System.out.println(result);
-		//실
+		//실험
 	}
 
 }
