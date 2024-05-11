@@ -6,6 +6,8 @@ public class EX06_12 {
 	
 	public static void main(String[] args) {
 		
+		//예제 6-12 Arrays 클래스를 이용한 깊은 복사
+		
 		int[] card = {3,1,4,5,10};
 		
 		//배열의 깊은 복사 - Arrays.copyOf(배열, 복사 범위)
