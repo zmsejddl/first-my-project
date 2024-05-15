@@ -1,6 +1,6 @@
 package section10_상속.상속01;
 
-public class EX10_01 {
+public class EX10_01 {	//클래스 선언
 
 	//예제 10-1 상속
 	
