@@ -6,7 +6,7 @@ public abstract class EX12_01 {
 	
 	String chef;
 	
-	public EX12_01(String chef) {
+	EX12_01(String chef) {
 		this.chef = chef;
 	}
 	
