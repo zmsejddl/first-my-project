@@ -4,8 +4,8 @@ public class EX11_11 {
 
 	//예제 11-11 객체를 만들어줄 클래스
 	
-	EX11_10 computer1;
-	EX11_10 computer2;
+	EX11_09 computer1;
+	EX11_09 computer2;
 	
 	void allPowerOn() {
 		computer1.powerOn();
