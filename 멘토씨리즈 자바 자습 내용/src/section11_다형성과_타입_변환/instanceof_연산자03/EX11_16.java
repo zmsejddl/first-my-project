@@ -1,7 +1,7 @@
 package section11_다형성과_타입_변환.instanceof_연산자03;
 
-class Animal {}
-class Pig extends Animal {}
+class Animal1 {}
+class Pig1 extends Animal {}
 
 public class EX11_16 {
 
