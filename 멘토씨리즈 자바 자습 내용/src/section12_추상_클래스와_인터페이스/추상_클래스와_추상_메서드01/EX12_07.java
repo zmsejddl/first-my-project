@@ -8,5 +8,9 @@ public class EX12_07 extends EX12_05 {
 	void openingLogo() {	//구현하지 않으면 에러 발생
 		System.out.println("***");
 	}
-
+	
+	/*
+	 * 해설
+	 * 8: 자식 클래스는 반드시 부모 클래스의 추상 메서드를 구현해야 합니다
+	 */
 }
