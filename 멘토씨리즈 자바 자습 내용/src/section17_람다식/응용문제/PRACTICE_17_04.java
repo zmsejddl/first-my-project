@@ -17,11 +17,11 @@ public class PRACTICE_17_04 {
 		int result = compare.compareTo(n1, n2);
 		
 		if(result == 1) {
-			System.out.println("n1이 n2보다 크다");
+			System.out.println("두 수 " + n1 + "과 " + n2 + " 중 " + n1 +"이 더 큽니다");
 		} else if(result == -1) {
-			System.out.println("n1이 n2보다 작다");
+			System.out.println("두 수 " + n1 + "과 " + n2 + " 중 " + n2 +"이 더 큽니다");
 		} else {
-			System.out.println("n1과 n2는 같다");
+			System.out.println("두 수 " + n1 + "과 " + n2 +"는 같습니다");
 		}
 	}
 
